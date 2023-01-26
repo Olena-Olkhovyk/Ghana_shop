@@ -84,10 +84,12 @@ img {
   font-size: 20px;
   font-weight: 700;
 }
-
+p.links {
+  font-size: 24px;
+}
 .links a {
   text-decoration: none;
-  color: rgb(0, 0, 0, 0.5);
+  color: rgba(22, 21, 21, 0.87);
 }
 .links a:hover {
   color: rgb(0, 0, 0);
